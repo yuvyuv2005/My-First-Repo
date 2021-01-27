@@ -11,3 +11,6 @@ int multiplier(int a, int b){
 int add(int a, int b) {
     return a + b;
 }
+void ifunny(){
+    printf("ifunny.com");
+}
